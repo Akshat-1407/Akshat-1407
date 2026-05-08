@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akshat%20Rastogi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18" />
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+<img width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <br>
 
@@ -144,24 +144,24 @@ const akshat = {
 
 # 🌟 Featured Projects
 
-## 📌 Project One
-> Short description about your project goes here.
+## 📌 StreamVerse
+> A Movie Streaming Web Application
 
-🔗 https://github.com/Akshat-1407/project-1
-
----
-
-## 📌 Project Two
-> Short description about your project goes here.
-
-🔗 https://github.com/Akshat-1407/project-2
+🔗 https://github.com/Akshat-1407/JioClone
 
 ---
 
-## 📌 Project Three
-> Short description about your project goes here.
+## 📌 EchoChat
+> A Real Time Web Chatting Application
 
-🔗 https://github.com/Akshat-1407/project-3
+🔗 https://github.com/Akshat-1407/EchoChat
+
+---
+
+## 📌 AirBnb Clone
+> A Travelling and Listing Site
+
+🔗 https://github.com/Akshat-1407/AirBnb
 
 ---
 
@@ -189,11 +189,11 @@ const akshat = {
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/akshat-rastogi14">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:akshat.rastogi1407@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -201,7 +201,7 @@ const akshat = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://portfolio-gray-three-54.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -216,8 +216,6 @@ const akshat = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
----
 
 <div align="center">
 
