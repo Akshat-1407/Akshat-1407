@@ -1,130 +1,226 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Akshat%20Rastogi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20|%20MERN%20Stack%20Learner%20|%20DSA%20Enthusiast&descAlignY=52&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Akshat%20Rastogi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descSize=18" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hey+There!+I'm+Ajit+Kumar+Saini;Building+skills+through+DSA+and+Projects;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hey+There!+I'm+Akshat+Rastogi;MERN+Stack+Developer;DSA+Enthusiast;Building+Projects+and+Learning+Daily;Future+Software+Engineer" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ajitkumarsaini02&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ajitkumarsaini02?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Web-blue?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Akshat-1407&label=Profile%20Views&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/Akshat-1407?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20%26%20DSA-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lives-India-orange?style=for-the-badge" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 ---
-## 👨‍💻 About Me
 
-```cpp
-class Ajit {
-public:
-    string name     = "Akshat Rastogi";
-    string location = "Uttar Pradesh, India 🇮🇳";
-    string college  = "ABES Engineering College";
-    string degree   = "B.Tech CSE (2nd Year)";
+# 👨‍💻 About Me
 
-    vector<string> languages  = {"C++", "Python", "JavaScript", "HTML", "CSS"};
-    vector<string> tools      = {"Git", "GitHub", "VS Code"};
+```javascript
+const akshat = {
+    role: "MERN Stack Developer",
+    location: "India 🇮🇳",
 
-    string goal = "Crack top tech companies 🎯";
+    languages: [
+        "JavaScript",
+        "C++",
+        "Java",
+        "HTML",
+        "CSS"
+    ],
+
+    technologies: [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman"
+    ],
+
+    currentFocus: "DSA + Full Stack Development",
+
+    goal: "Become a great Software Engineer"
 };
 ```
-### 🚀 Quick Highlights
-
-* 🎓 **B.Tech CSE (2nd Year)** at **ABES Engineering College**
-* 🌐 **MERN Stack Developer**
-* 🔧 Strong in **C++, JavaScript, Problem Solving**
-* 🎯 Goal: **Crack top tech companies**
 
 ---
 
+# 🚀 Quick Highlights
 
-### 💻 Programming Languages
+-  Currently learning **Advanced MERN Stack Development**
+-  Solving **DSA Problems Daily**
+-  Building **Full Stack Web Applications**
+-  Interested in **Backend Development & Problem Solving**
+-  Goal: **Crack top product-based companies**
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" />
+</p>
+
+### ⚙️ Frameworks & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 Animated Skill Bars
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajitkumarsaini02&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajitkumarsaini02&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-1407&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshat-1407&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshat-1407&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajitkumarsaini02&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Akshat-1407&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitkumarsaini02&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat-1407&theme=tokyo-night" />
 </p>
 
-## 💻 Coding Profiles
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat-1407&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<div align="center">
+
+![Snake animation](https://github.com/Akshat-1407/Akshat-1407/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🧠 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akshatrastogi14?theme=dark&font=Nunito&ext=contest" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 📌 Project One
+> Short description about your project goes here.
+
+🔗 https://github.com/Akshat-1407/project-1
+
+---
+
+## 📌 Project Two
+> Short description about your project goes here.
+
+🔗 https://github.com/Akshat-1407/project-2
+
+---
+
+## 📌 Project Three
+> Short description about your project goes here.
+
+🔗 https://github.com/Akshat-1407/project-3
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
-<a href="https://leetcode.com/akshatrastogi14">
-  <img src="https://img.shields.io/badge/LeetCode-290%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/akshatrastogi14/">
+  <img src="https://img.shields.io/badge/LeetCode-akshatrastogi14-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="https://www.codechef.com/users/akshat_cs_1407">
-  <img src="https://img.shields.io/badge/CodeChef-600%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-akshat__cs__1407-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/akshat_rastogi12">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.com/profile/akshatraslar7">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2EC866?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/user/akshatraslar7/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-akshatraslar7-2EC866?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-<div align="center">
-
-💬 Open to internships, collaborations, and learning opportunities
-
-</div>
-
----
-
-## 💡 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight\&quote=Consistency+beats+intensity.+Show+up+every+day.\&author=Ajit+Kumar+Saini)
-
-</div>
-
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%" />
+# 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buymeacoffee" />
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Akshat-1407">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </p>
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" height="25" /> Crafted with passion by [Ajit Kumar Saini](https://github.com/ajitkumarsaini02) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" height="25" />**
+---
+
+# 💡 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
