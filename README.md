@@ -116,14 +116,6 @@ const akshat = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshat-1407&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🐍 Snake Contribution Animation
 
 <div align="center">
@@ -144,10 +136,10 @@ const akshat = {
 
 # 🌟 Featured Projects
 
-## 📌 StreamVerse
+## 📌 Stream
 > A Movie Streaming Web Application
 
-🔗 https://github.com/Akshat-1407/JioClone
+🔗 https://github.com/Akshat-1407/Stream
 
 ---
 
@@ -161,7 +153,7 @@ const akshat = {
 ## 📌 AirBnb Clone
 > A Travelling and Listing Site
 
-🔗 https://github.com/Akshat-1407/AirBnb
+🔗 https://github.com/Akshat-1407/Abode
 
 ---
 
