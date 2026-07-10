@@ -88,18 +88,6 @@ const akshat = {
 
 ---
 
-# 📈 Animated Skill Bars
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-1407&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshat-1407&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
